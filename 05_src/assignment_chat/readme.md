@@ -1,0 +1,1 @@
+This is a conversational AI agent, which can tell you the calories of all the food that you eat(service 1), summarise information from the canada food guide (service 2) and also tell your BMI based on your height and weight (service 3). 
